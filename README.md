@@ -1,4 +1,5 @@
 # projek1
-Ini Projek Kelas PBO 
-Saya menggunakannya untuk membuat projek tugas besar PBO
+Ini Projek Kelas MK Saya
+Saya menggunakannya untuk membuat projek tugas besar bagi Mahasiswa saya
+
 
