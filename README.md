@@ -1,5 +1,7 @@
 # projek1
-Ini Projek Kelas MK Saya
-Saya menggunakannya untuk membuat projek tugas besar bagi Mahasiswa saya
+1. Ini Projek Kelas MK Saya
+
+2. Saya menggunakannya untuk membuat projek tugas besar bagi Mahasiswa saya
+
 
 
